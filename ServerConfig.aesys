@@ -1,0 +1,9 @@
+requires = aeosserver, aeos
+name(server%servernumber%)
+serverbyte(10TB)
+auth= ae-os.net/auths/server1/
+authcode= 'auth-load00000000000000001'
+enable= yes
+port= 55
+ae-os-cimtos-port= 000aaa
+code= aesse8-4568gtr3itfty34fgrr
